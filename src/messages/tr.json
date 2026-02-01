@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "siteName": "Finmax Trafo",
+    "defaultTitle": "Transformer Tank Manufacturing Partner",
+    "defaultDescription": "Manufacturer-to-Manufacturer üretim ortağınız: trafo kazanı, dalga duvar ve aksesuarlar."
+  },
+  "nav": {
+    "production": "Üretim Ekosistemi",
+    "capacity": "Kapasite",
+    "products": "Ürünler",
+    "quality": "Kalite & Testler",
+    "export": "İhracat & Lojistik",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "ctaContact": "İletişim"
+  },
+  "common": {
+    "getQuote": "Teklif Al",
+    "viewProducts": "Ürünleri Gör",
+    "whatsapp": "WhatsApp",
+    "email": "E-posta",
+    "phone": "Telefon",
+    "address": "Adres",
+    "documents": "Teknik Dokümanlar",
+    "comingSoon": "Yakında"
+  },
+  "home": {
+    "hero": {
+      "badge1": "Manufacturer-to-Manufacturer",
+      "badge2": "İhracata hazır",
+      "title": "Trafo Kazanı Üretim Ortağınız.",
+      "subtitle": "Üreticiden üreticiye: trafo kazanı, dalga duvar ve aksesuar üretimi.",
+      "ctaPrimary": "Teklif Al",
+      "ctaSecondary": "Ürünleri Gör"
+    },
+    "trust": {
+      "title": "M2M Güven",
+      "cards": {
+        "volume": {
+          "title": "Hacim & Termin Yönetimi",
+          "text": "Proje ölçeğine göre planlama, termin disiplini ve sevkiyat hazırlığı."
+        },
+        "repeatability": {
+          "title": "Teknoloji & Tekrarlanabilirlik",
+          "text": "Süreç standardizasyonu ile tutarlı kalite ve izlenebilir üretim."
+        },
+        "export": {
+          "title": "Export-Ready Paketleme",
+          "text": "İhracata uygun paketleme, etiketleme ve dokümantasyon yaklaşımı."
+        }
+      }
+    },
+    "production": {
+      "title": "Üretim Ekosistemi",
+      "cards": {
+        "wavewall": {
+          "kicker": "Dalga duvar üretim hattı",
+          "benefit": "Yüksek tekrarlanabilirlik ve kontrollü form toleransları."
+        },
+        "welding": {
+          "kicker": "Kaynak / robotik işlem",
+          "benefit": "Süreç disiplinine dayalı dikiş sürekliliği ve yüzey kalitesi."
+        },
+        "vacuum": {
+          "kicker": "Vakumlu kurutma / yağ odası",
+          "benefit": "Montaj öncesi hazırlık ve prosese uygun kondisyonlama."
+        },
+        "shipment": {
+          "kicker": "Sevkiyata hazır kazanlar",
+          "benefit": "İhracat odaklı paketleme ile hasar riskini azaltan hazırlık."
+        }
+      }
+    },
+    "capacity": {
+      "title": "Aylık Üretim Kapasitesi (Tipik)",
+      "items": {
+        "tank": "Trafo kazanı: 20–60 adet/ay (proje boyutuna bağlı)",
+        "wavewall": "Dalga duvar: 200–600 panel/ay",
+        "accessories": "Aksesuar & flanş setleri: 100–300 set/ay"
+      },
+      "note": "Rakamlar proje tipine göre değişir; net planlama teklif aşamasında paylaşılır."
+    },
+    "quality": {
+      "title": "Kalite & Testler",
+      "items": {
+        "leak": "Sızdırmazlık testleri",
+        "pt": "Sıvı penetran",
+        "pressure": "İç basınç/vakum dayanım kontrolleri",
+        "weld": "Kaynak dikişi kontrol süreçleri"
+      }
+    },
+    "export": {
+      "title": "İhracat & Lojistik Avantajı",
+      "items": {
+        "location": "Şanlıurfa → Orta Doğu’ya yakınlık, hızlı sevk",
+        "packaging": "Export-ready paketleme"
+      }
+    },
+    "ctaBand": {
+      "title": "Projenizi konuşalım. 24 saat içinde geri dönüş.",
+      "subtitle": "WhatsApp, e-posta veya telefon ile hızlıca ulaşın."
+    }
+  },
+  "products": {
+    "index": {
+      "title": "Ürünler",
+      "subtitle": "Modern B2B katalog: üretim odaklı, teknik ve teklif sürecine hazır."
+    },
+    "items": {
+      "transformer-tank": {
+        "name": "Trafo Kazanı",
+        "tagline": "Dalga duvarlı veya düz duvarlı çözümler; projeye göre özelleştirme."
+      },
+      "wavewall": {
+        "name": "Dalga Duvar",
+        "tagline": "Panel üretimi, form kontrolü ve kaynak kalitesine odaklı süreç."
+      },
+      "accessories": {
+        "name": "Trafo Aksesuarları",
+        "tagline": "Flanş, bağlantı elemanları ve yardımcı parçalar için üretim desteği."
+      },
+      "oil-purification": {
+        "name": "Yağ Tasfiye Cihazı",
+        "tagline": "Bakım ve proses destek ekipmanları için endüstriyel üretim yaklaşımı."
+      },
+      "vacuum-drying-oven": {
+        "name": "Vakumlu Kurutma Fırını",
+        "tagline": "Vakum altında kurutma uygulamaları için endüstriyel sistemler."
+      },
+      "vacuum-oil-filling-room": {
+        "name": "Vakumlu Yağ Doldurma Odası",
+        "tagline": "Proses odaklı vakum/yağ dolum ortamı için sistem çözümleri."
+      },
+      "coil-winding-machine": {
+        "name": "AG/YG Bobin Sarma Makinası",
+        "tagline": "Üretim hattı için mekanik ve proses uyumlu ekipmanlar."
+      }
+    },
+    "data": {
+      "transformer-tank": {
+        "technicalSummary": [
+          "Dalga duvarlı ve düz duvarlı tank üretimi",
+          "Proje bazlı ölçülendirme ve bağlantı yerleşimleri",
+          "Sızdırmazlık odaklı kaynak prosesi ve yüzey hazırlığı",
+          "Boya/kaplama opsiyonları ile sevkiyata hazır teslim",
+          "Export-ready paketleme yaklaşımı"
+        ],
+        "qualityTests": [
+          "Sızdırmazlık testleri",
+          "Sıvı penetran",
+          "İç basınç/vakum dayanım kontrolleri",
+          "Kaynak dikişi kontrol süreçleri"
+        ],
+        "options": [
+          "Boya sistemi (astar/son kat)",
+          "Conta ve bağlantı elemanları",
+          "Malzeme seçimi (sac/aksesuar)",
+          "Flanş ve bağlantı konfigürasyonları",
+          "İhracat paketleme ve işaretleme"
+        ]
+      },
+      "wavewall": {
+        "technicalSummary": [
+          "Form verme, panel ölçü ve geometrik kontrol",
+          "Kaynaklı panel birleştirme ve süreklilik odaklı proses",
+          "Proje tipine göre kalınlık ve tolerans yaklaşımı",
+          "Parti bazlı izlenebilir üretim akışı"
+        ],
+        "qualityTests": [
+          "Kaynak dikişi kontrol süreçleri",
+          "Sıvı penetran",
+          "Görsel kontrol ve ölçü doğrulama"
+        ],
+        "options": [
+          "Panel ölçüsü ve dalga geometrisi",
+          "Malzeme kalınlığı",
+          "Boya/koruma seçenekleri",
+          "Paketleme formatı"
+        ]
+      },
+      "accessories": {
+        "technicalSummary": [
+          "Flanş, braket ve yardımcı metal parçalar",
+          "Proje çizimlerine göre üretim ve revizyon uyumu",
+          "Yüzey hazırlık ve kaplama opsiyonları",
+          "B2B sevkiyat ve set bazlı paketleme"
+        ],
+        "qualityTests": [
+          "Ölçü ve yüzey kontrolü",
+          "Kaynak dikişi kontrol süreçleri",
+          "Sıvı penetran (gereken parçalarda)"
+        ],
+        "options": [
+          "Malzeme ve kalınlık",
+          "Kaplama/boya",
+          "Conta tipi ve set içerikleri",
+          "Özel etiketleme ve paketleme"
+        ]
+      },
+      "oil-purification": {
+        "technicalSummary": [
+          "Yağ tasfiye ekipmanı için şasi ve gövde imalatı",
+          "Servis kolaylığı için modüler yerleşim yaklaşımı",
+          "Bağlantı noktaları ve hat planı proje bazlı",
+          "Endüstriyel kullanım için dayanıklı konstrüksiyon"
+        ],
+        "qualityTests": [
+          "Sızdırmazlık kontrolleri",
+          "Kaynak dikişi kontrol süreçleri",
+          "Basınç/vakum dayanım kontrolleri (uygulamaya göre)"
+        ],
+        "options": [
+          "Filtrasyon/degazaj konfigürasyonu (proje bazlı)",
+          "Pompa/valf yerleşimi",
+          "Kontrol paneli ve enstrümantasyon",
+          "Taşıma şasisi ve servis kapakları"
+        ]
+      },
+      "vacuum-drying-oven": {
+        "technicalSummary": [
+          "Vakum altında kurutma için izolasyonlu gövde",
+          "Sızdırmazlık ve vakum stabilitesi odaklı tasarım",
+          "Proje bazlı hacim ve iç yerleşim (raf/taşıma)",
+          "Endüstriyel kullanım için sağlam konstrüksiyon"
+        ],
+        "qualityTests": [
+          "Vakum tutma ve sızdırmazlık kontrolleri",
+          "İç basınç/vakum dayanım kontrolleri",
+          "Kaynak dikişi kontrol süreçleri"
+        ],
+        "options": [
+          "Kabin ölçüsü ve kapasite",
+          "Isıtma sistemi ve sensör seti",
+          "Kapı/conta sistemi",
+          "Kontrol ve güvenlik donanımı"
+        ]
+      },
+      "vacuum-oil-filling-room": {
+        "technicalSummary": [
+          "Vakumlu yağ dolum prosesine uygun kapalı sistem alanı",
+          "Proje bazlı bağlantı ve operasyon noktaları",
+          "Sızdırmazlık odaklı gövde ve kapak tasarımı",
+          "Prosese uygun güvenlik yaklaşımı"
+        ],
+        "qualityTests": [
+          "Vakum tutma ve sızdırmazlık kontrolleri",
+          "Kaynak dikişi kontrol süreçleri",
+          "İç basınç/vakum dayanım kontrolleri (uygulamaya göre)"
+        ],
+        "options": [
+          "Oda ölçüsü ve iç yerleşim",
+          "Hat bağlantıları ve manifold düzeni",
+          "Enstrümantasyon ve kontrol paneli",
+          "Operasyon güvenliği ekipmanları"
+        ]
+      },
+      "coil-winding-machine": {
+        "technicalSummary": [
+          "AG/YG bobin sarım uygulamaları için sağlam şasi",
+          "Hizalama ve mekanik tekrarlanabilirlik odaklı yapı",
+          "Operasyon güvenliği ve ergonomi yaklaşımı",
+          "Proje bazlı aksesuar ve mandren uyumu"
+        ],
+        "qualityTests": [
+          "Mekanik hizalama ve fonksiyon kontrolleri",
+          "Yük altında çalışma doğrulaması (uygulamaya göre)",
+          "Kaynak dikişi kontrol süreçleri"
+        ],
+        "options": [
+          "Mandren ölçüleri ve aksesuar seti",
+          "Hız/gerginlik kontrolü bileşenleri (proje bazlı)",
+          "Koruyucu muhafaza ve güvenlik ekipmanları",
+          "Taşıma/kurulum opsiyonları"
+        ]
+      }
+    },
+    "detail": {
+      "technicalSummary": "Teknik Özet",
+      "qualityTests": "Kalite & Test",
+      "options": "Opsiyonlar",
+      "documents": "Teknik Dokümanlar",
+      "fastQuote": "Hızlı Teklif",
+      "fastQuoteText": "WhatsApp, e-posta veya telefon ile hızlı teklif.",
+      "docsPlaceholder": "Bu alana daha sonra PDF teknik dokümanlar eklenecek."
+    }
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "text": "Finmax Trafo & Metal İth. Tic. Ltd. Şti., çeyrek asırlık tecrübe… 9.500 m² modern üretim tesisleri…",
+    "servicesTitle": "Hizmet Alanları",
+    "services": {
+      "tanks": "Trafo kazanı ve dalga duvarlı çözümler",
+      "metal": "Metal imalat ve kaynaklı konstrüksiyon",
+      "accessories": "Aksesuar, flanş ve yardımcı parçalar",
+      "equipment": "Proses ekipmanları (vakum, yağ tasfiye vb.)"
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Teklif ve proje planlaması için bizimle iletişime geçin.",
+    "form": {
+      "name": "Ad Soyad",
+      "company": "Firma",
+      "country": "Ülke",
+      "productType": "Ürün Tipi",
+      "message": "Mesaj",
+      "send": "Gönder"
+    }
+  },
+  "footer": {
+    "quickLinks": "Hızlı Linkler",
+    "contact": "İletişim",
+    "social": "Sosyal",
+    "rights": "Tüm hakları saklıdır."
+  }
+}

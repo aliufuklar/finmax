@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "siteName": "Finmax Trafo",
+    "defaultTitle": "Transformer Tank Manufacturing Partner",
+    "defaultDescription": "شريكك بنموذج Manufacturer-to-Manufacturer لتصنيع خزانات المحولات، Corrugated Wall والملحقات."
+  },
+  "nav": {
+    "production": "منظومة الإنتاج",
+    "capacity": "الطاقة الإنتاجية",
+    "products": "المنتجات",
+    "quality": "الجودة والاختبارات",
+    "export": "التصدير واللوجستيات",
+    "about": "من نحن",
+    "contact": "تواصل معنا",
+    "ctaContact": "تواصل معنا"
+  },
+  "common": {
+    "getQuote": "اطلب عرض سعر",
+    "viewProducts": "عرض المنتجات",
+    "whatsapp": "واتساب",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "address": "العنوان",
+    "documents": "المستندات الفنية",
+    "comingSoon": "قريبًا"
+  },
+  "home": {
+    "hero": {
+      "badge1": "مصنّع إلى مصنّع",
+      "badge2": "جاهز للتصدير",
+      "title": "شريك تصنيع خزانات المحولات.",
+      "subtitle": "تصنيع بنهج مصنّع إلى مصنّع: خزانات المحولات، الجدران المموجة، والملحقات.",
+      "ctaPrimary": "اطلب عرض سعر",
+      "ctaSecondary": "عرض المنتجات"
+    },
+    "trust": {
+      "title": "ثقة M2M",
+      "cards": {
+        "volume": {
+          "title": "إدارة الكميات ومواعيد التسليم",
+          "text": "تخطيط حسب المشروع، انضباط المواعيد وجاهزية الشحن."
+        },
+        "repeatability": {
+          "title": "التقنية وقابلية التكرار",
+          "text": "عمليات معيارية لجودة ثابتة وإنتاج قابل للتتبع."
+        },
+        "export": {
+          "title": "تغليف جاهز للتصدير",
+          "text": "تغليف ووسم ووثائق متوافقة مع متطلبات التصدير."
+        }
+      }
+    },
+    "production": {
+      "title": "منظومة الإنتاج",
+      "cards": {
+        "wavewall": {
+          "kicker": "خط إنتاج Corrugated Wall",
+          "benefit": "تكرارية عالية مع تحكم في سماحات التشكيل."
+        },
+        "welding": {
+          "kicker": "اللحام / عمليات روبوتية",
+          "benefit": "انضباط العملية لاستمرارية اللحام وجودة السطح."
+        },
+        "vacuum": {
+          "kicker": "تجفيف بالفاكيوم / غرفة زيت",
+          "benefit": "تحضير قبل التجميع وتهيئة مناسبة للعملية."
+        },
+        "shipment": {
+          "kicker": "خزانات جاهزة للشحن",
+          "benefit": "تغليف للتصدير يقلل مخاطر النقل."
+        }
+      }
+    },
+    "capacity": {
+      "title": "الطاقة الإنتاجية الشهرية (نطاق نموذجي)",
+      "items": {
+        "tank": "Transformer Tank: ‏20–60 وحدة/شهر (حسب حجم المشروع)",
+        "wavewall": "Corrugated Wall: ‏200–600 لوحة/شهر",
+        "accessories": "ملحقات ومجموعات Flange: ‏100–300 مجموعة/شهر"
+      },
+      "note": "الأرقام تختلف حسب نوع المشروع؛ يتم مشاركة التخطيط النهائي أثناء عرض السعر."
+    },
+    "quality": {
+      "title": "الجودة والاختبارات",
+      "items": {
+        "leak": "اختبارات إحكام التسرب",
+        "pt": "اختبار Liquid Penetrant",
+        "pressure": "فحوصات تحمل الضغط الداخلي/الفراغ",
+        "weld": "إجراءات فحص لحام الوصلات"
+      }
+    },
+    "export": {
+      "title": "ميزة التصدير واللوجستيات",
+      "items": {
+        "location": "Şanlıurfa → قرب من الشرق الأوسط للشحن السريع",
+        "packaging": "تغليف جاهز للتصدير"
+      }
+    },
+    "ctaBand": {
+      "title": "لنتحدث عن مشروعك. رد خلال 24 ساعة.",
+      "subtitle": "تواصل بسرعة عبر واتساب أو البريد أو الهاتف."
+    }
+  },
+  "products": {
+    "index": {
+      "title": "المنتجات",
+      "subtitle": "كتالوج B2B حديث: تقني ومهيأ لطلب العرض."
+    },
+    "items": {
+      "transformer-tank": {
+        "name": "Transformer Tank",
+        "tagline": "أنواع Corrugated وFlat Wall مع تخصيص حسب المشروع."
+      },
+      "wavewall": {
+        "name": "Corrugated Wall",
+        "tagline": "تصنيع لوحات مع التركيز على التحكم بالشكل وجودة اللحام."
+      },
+      "accessories": {
+        "name": "Transformer Accessories",
+        "tagline": "دعم تصنيع Flange والقطع المساعدة والملحقات."
+      },
+      "oil-purification": {
+        "name": "Oil Purification Unit",
+        "tagline": "معدات صناعية للعمليات والصيانة بمنهجية تصنيع M2M."
+      },
+      "vacuum-drying-oven": {
+        "name": "Vacuum Drying Oven",
+        "tagline": "أنظمة صناعية لعمليات التجفيف تحت الفراغ."
+      },
+      "vacuum-oil-filling-room": {
+        "name": "Vacuum Oil Filling Room",
+        "tagline": "حلول نظامية لبيئات عمليات التفريغ وتعبئة الزيت."
+      },
+      "coil-winding-machine": {
+        "name": "LV/HV Coil Winding Machine",
+        "tagline": "معدات للخطوط الإنتاجية بمتانة ميكانيكية وتوافق تشغيلي."
+      }
+    },
+    "data": {
+      "transformer-tank": {
+        "technicalSummary": [
+          "تصنيع خزانات Transformer Tank بنمط corrugated أو flat wall",
+          "تحديد الأبعاد وتخطيط نقاط الربط حسب المشروع",
+          "عملية لحام موجهة لإحكام التسرب مع تحضير مناسب للسطح",
+          "خيارات طلاء/حماية لتسليم جاهز للشحن",
+          "منهجية تغليف export-ready"
+        ],
+        "qualityTests": [
+          "اختبارات إحكام التسرب",
+          "اختبار Liquid Penetrant",
+          "فحوصات تحمل الضغط الداخلي/الفراغ",
+          "إجراءات فحص Weld Seam"
+        ],
+        "options": [
+          "نظام الطلاء (Primer/Top Coat)",
+          "Gaskets وFasteners",
+          "اختيار المواد (plates/accessories)",
+          "تكوينات flange والربط",
+          "تغليف ووسم للتصدير"
+        ]
+      },
+      "wavewall": {
+        "technicalSummary": [
+          "تشكيل corrugated wall مع تحقق من الأبعاد والهندسة",
+          "تجميع لوحات ملحومة مع ضبط استمرارية اللحام",
+          "سماكات وتفاوتات حسب نوع المشروع",
+          "تدفق تصنيع قابل للتتبع على مستوى الدفعات"
+        ],
+        "qualityTests": [
+          "إجراءات فحص Weld Seam",
+          "اختبار Liquid Penetrant",
+          "فحص بصري وتحقق أبعاد"
+        ],
+        "options": [
+          "أبعاد اللوحة وهندسة التموج",
+          "سماكة المادة",
+          "حماية/طلاء",
+          "شكل التغليف"
+        ]
+      },
+      "accessories": {
+        "technicalSummary": [
+          "Flange، Brackets وقطع معدنية مساعدة",
+          "تصنيع مطابق لرسومات المشروع والتعديلات",
+          "تحضير سطح وخيارات طلاء/حماية",
+          "تغليف بنمط sets للشحنات B2B"
+        ],
+        "qualityTests": [
+          "فحوصات أبعاد وسطح",
+          "إجراءات فحص Weld Seam",
+          "Liquid Penetrant (عند الحاجة)"
+        ],
+        "options": [
+          "المادة والسماكة",
+          "طلاء/حماية",
+          "نوع gasket ومحتوى الـ set",
+          "وسم وتغليف مخصص"
+        ]
+      },
+      "oil-purification": {
+        "technicalSummary": [
+          "تصنيع شاسيه وهيكل لمعدات Oil Purification",
+          "تخطيط modular لتسهيل الخدمة والصيانة",
+          "نقاط ربط وخطوط حسب المشروع",
+          "إنشاء متين للاستخدام الصناعي"
+        ],
+        "qualityTests": [
+          "فحوصات إحكام التسرب",
+          "إجراءات فحص Weld Seam",
+          "فحوصات تحمل الضغط/الفراغ (حسب التطبيق)"
+        ],
+        "options": [
+          "تكوين filtration/degassing (حسب المشروع)",
+          "تخطيط pump/valve",
+          "Control panel وInstrumentation",
+          "شاسيه نقل وأغطية خدمة"
+        ]
+      },
+      "vacuum-drying-oven": {
+        "technicalSummary": [
+          "حجرة معزولة لعمليات Vacuum Drying",
+          "تصميم يركز على الإحكام واستقرار الفراغ",
+          "حجم وترتيب داخلي (racks/handling) حسب المشروع",
+          "إنشاء متين للاستخدام الصناعي"
+        ],
+        "qualityTests": [
+          "Vacuum hold وفحوصات إحكام التسرب",
+          "فحوصات تحمل الضغط الداخلي/الفراغ",
+          "إجراءات فحص Weld Seam"
+        ],
+        "options": [
+          "أبعاد الحجرة والسعة",
+          "نظام تسخين وحساسات",
+          "نظام باب/Sealing",
+          "تحكم وتجهيزات سلامة"
+        ]
+      },
+      "vacuum-oil-filling-room": {
+        "technicalSummary": [
+          "مساحة نظام مغلق لعملية Vacuum Oil Filling",
+          "نقاط تشغيل وربط حسب المشروع",
+          "تصميم هيكل وأغطية يركز على الإحكام",
+          "منهجية سلامة مناسبة للعملية"
+        ],
+        "qualityTests": [
+          "Vacuum hold وفحوصات إحكام التسرب",
+          "إجراءات فحص Weld Seam",
+          "فحوصات تحمل الضغط/الفراغ (حسب التطبيق)"
+        ],
+        "options": [
+          "أبعاد الغرفة وترتيب داخلي",
+          "توصيلات خطوط وتخطيط manifold",
+          "Instrumentation وControl panel",
+          "معدات سلامة التشغيل"
+        ]
+      },
+      "coil-winding-machine": {
+        "technicalSummary": [
+          "هيكل متين لتطبيقات LV/HV coil winding",
+          "بنية تركّز على المحاذاة والتكرارية الميكانيكية",
+          "سلامة تشغيل واعتبارات ergonomics",
+          "توافق mandrel والملحقات حسب المشروع"
+        ],
+        "qualityTests": [
+          "فحوصات محاذاة ووظائف ميكانيكية",
+          "تحقق تحت الحمل (حسب التطبيق)",
+          "إجراءات فحص Weld Seam"
+        ],
+        "options": [
+          "أحجام mandrel وملحقات",
+          "مكونات speed/tension control (حسب المشروع)",
+          "حواجز وأجهزة سلامة",
+          "خيارات تركيب ونقل"
+        ]
+      }
+    },
+    "detail": {
+      "technicalSummary": "ملخص تقني",
+      "qualityTests": "الجودة والاختبارات",
+      "options": "الخيارات",
+      "documents": "المستندات الفنية",
+      "fastQuote": "عرض سعر سريع",
+      "fastQuoteText": "عرض سعر سريع عبر واتساب أو البريد الإلكتروني أو الهاتف.",
+      "docsPlaceholder": "ستتم إضافة ملفات PDF الفنية هنا لاحقًا."
+    }
+  },
+  "about": {
+    "title": "من نحن",
+    "text": "Finmax Trafo & Metal İth. Tic. Ltd. Şti., خبرة ربع قرن… منشآت إنتاج حديثة بمساحة 9,500 م²…",
+    "servicesTitle": "مجالات الخدمة",
+    "services": {
+      "tanks": "خزانات المحولات وحلول Corrugated Wall",
+      "metal": "تصنيع معدني وهياكل ملحومة",
+      "accessories": "ملحقات وFlange وقطع مساعدة",
+      "equipment": "معدات عمليات (Vacuum, Oil Purification، إلخ)"
+    }
+  },
+  "contact": {
+    "title": "تواصل معنا",
+    "subtitle": "تواصل معنا لطلب عرض سعر وتخطيط المشروع.",
+    "form": {
+      "name": "الاسم الكامل",
+      "company": "الشركة",
+      "country": "الدولة",
+      "productType": "نوع المنتج",
+      "message": "الرسالة",
+      "send": "إرسال"
+    }
+  },
+  "footer": {
+    "quickLinks": "روابط سريعة",
+    "contact": "تواصل",
+    "social": "اجتماعي",
+    "rights": "جميع الحقوق محفوظة."
+  }
+}

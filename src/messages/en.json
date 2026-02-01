@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "siteName": "Finmax Trafo",
+    "defaultTitle": "Transformer Tank Manufacturing Partner",
+    "defaultDescription": "Your Manufacturer-to-Manufacturer partner for transformer tanks, corrugated walls and accessories."
+  },
+  "nav": {
+    "production": "Production Ecosystem",
+    "capacity": "Capacity",
+    "products": "Products",
+    "quality": "Quality & Testing",
+    "export": "Export & Logistics",
+    "about": "About",
+    "contact": "Contact",
+    "ctaContact": "Contact"
+  },
+  "common": {
+    "getQuote": "Get a Quote",
+    "viewProducts": "View Products",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "documents": "Technical Documents",
+    "comingSoon": "Coming soon"
+  },
+  "home": {
+    "hero": {
+      "badge1": "Manufacturer-to-Manufacturer",
+      "badge2": "Export-ready",
+      "title": "Transformer Tank Manufacturing Partner.",
+      "subtitle": "Manufacturer-to-manufacturer production for transformer tanks, corrugated walls and accessories.",
+      "ctaPrimary": "Request a Quote",
+      "ctaSecondary": "View Products"
+    },
+    "trust": {
+      "title": "M2M Trust",
+      "cards": {
+        "volume": {
+          "title": "Volume & Lead-Time Control",
+          "text": "Project-based planning, delivery discipline and shipment readiness."
+        },
+        "repeatability": {
+          "title": "Technology & Repeatability",
+          "text": "Standardized processes for consistent quality and traceable manufacturing."
+        },
+        "export": {
+          "title": "Export-Ready Packaging",
+          "text": "Packaging, labeling and documentation aligned with export operations."
+        }
+      }
+    },
+    "production": {
+      "title": "Production Ecosystem",
+      "cards": {
+        "wavewall": {
+          "kicker": "Corrugated wall line",
+          "benefit": "High repeatability with controlled forming tolerances."
+        },
+        "welding": {
+          "kicker": "Welding / robotic operations",
+          "benefit": "Process discipline for continuous seams and surface quality."
+        },
+        "vacuum": {
+          "kicker": "Vacuum drying / oil room",
+          "benefit": "Pre-assembly preparation and process-ready conditioning."
+        },
+        "shipment": {
+          "kicker": "Shipment-ready tanks",
+          "benefit": "Export-focused packing that reduces transit risk."
+        }
+      }
+    },
+    "capacity": {
+      "title": "Monthly Manufacturing Capacity (Typical)",
+      "items": {
+        "tank": "Transformer tank: 20–60 units/month (depends on project size)",
+        "wavewall": "Corrugated wall: 200–600 panels/month",
+        "accessories": "Accessories & flange sets: 100–300 sets/month"
+      },
+      "note": "Figures vary by project type; final planning is shared during quotation."
+    },
+    "quality": {
+      "title": "Quality & Testing",
+      "items": {
+        "leak": "Leak-tightness testing",
+        "pt": "Liquid penetrant testing",
+        "pressure": "Internal pressure/vacuum resistance checks",
+        "weld": "Weld seam inspection workflows"
+      }
+    },
+    "export": {
+      "title": "Export & Logistics Advantage",
+      "items": {
+        "location": "Şanlıurfa → proximity to the Middle East for fast dispatch",
+        "packaging": "Export-ready packaging"
+      }
+    },
+    "ctaBand": {
+      "title": "Let’s talk about your project. Reply within 24 hours.",
+      "subtitle": "Reach us quickly via WhatsApp, email or phone."
+    }
+  },
+  "products": {
+    "index": {
+      "title": "Products",
+      "subtitle": "Modern B2B catalog: manufacturing-first, technical, quotation-ready."
+    },
+    "items": {
+      "transformer-tank": {
+        "name": "Transformer Tank",
+        "tagline": "Corrugated or flat wall variants; customized to your project."
+      },
+      "wavewall": {
+        "name": "Corrugated Wall",
+        "tagline": "Panel manufacturing with a focus on form control and weld quality."
+      },
+      "accessories": {
+        "name": "Transformer Accessories",
+        "tagline": "Manufacturing support for flanges, fittings and auxiliary parts."
+      },
+      "oil-purification": {
+        "name": "Oil Purification Unit",
+        "tagline": "Industrial manufacturing approach for maintenance/process equipment."
+      },
+      "vacuum-drying-oven": {
+        "name": "Vacuum Drying Oven",
+        "tagline": "Industrial systems for drying applications under vacuum."
+      },
+      "vacuum-oil-filling-room": {
+        "name": "Vacuum Oil Filling Room",
+        "tagline": "System solutions for vacuum/oil filling process environments."
+      },
+      "coil-winding-machine": {
+        "name": "LV/HV Coil Winding Machine",
+        "tagline": "Equipment designed for mechanical robustness and process compatibility."
+      }
+    },
+    "data": {
+      "transformer-tank": {
+        "technicalSummary": [
+          "Corrugated and flat wall tank manufacturing",
+          "Project-based sizing and connection layouts",
+          "Leak-tightness focused welding process and surface preparation",
+          "Paint/coating options for shipment-ready delivery",
+          "Export-ready packaging approach"
+        ],
+        "qualityTests": [
+          "Leak-tightness testing",
+          "Liquid penetrant testing",
+          "Internal pressure/vacuum resistance checks",
+          "Weld seam inspection workflows"
+        ],
+        "options": [
+          "Paint system (primer/top coat)",
+          "Gaskets and fasteners",
+          "Material selection (plates/accessories)",
+          "Flange and connection configurations",
+          "Export packaging and marking"
+        ]
+      },
+      "wavewall": {
+        "technicalSummary": [
+          "Forming, panel dimension and geometry verification",
+          "Welded panel joining with continuity-focused process control",
+          "Thickness and tolerance approach based on project type",
+          "Batch-level traceable manufacturing flow"
+        ],
+        "qualityTests": [
+          "Weld seam inspection workflows",
+          "Liquid penetrant testing",
+          "Visual inspection and dimensional verification"
+        ],
+        "options": [
+          "Panel dimensions and corrugation geometry",
+          "Material thickness",
+          "Paint/corrosion protection",
+          "Packaging format"
+        ]
+      },
+      "accessories": {
+        "technicalSummary": [
+          "Flanges, brackets and auxiliary metal parts",
+          "Manufacturing aligned with project drawings and revisions",
+          "Surface preparation and coating options",
+          "B2B shipment with set-based packing"
+        ],
+        "qualityTests": [
+          "Dimensional and surface checks",
+          "Weld seam inspection workflows",
+          "Liquid penetrant testing (where applicable)"
+        ],
+        "options": [
+          "Material and thickness",
+          "Coating/paint",
+          "Gasket type and set contents",
+          "Custom labeling and packing"
+        ]
+      },
+      "oil-purification": {
+        "technicalSummary": [
+          "Chassis and enclosure fabrication for oil purification equipment",
+          "Modular layout for serviceability",
+          "Connection points and piping plan per project",
+          "Robust construction for industrial operation"
+        ],
+        "qualityTests": [
+          "Leak-tightness checks",
+          "Weld seam inspection workflows",
+          "Pressure/vacuum resistance checks (as applicable)"
+        ],
+        "options": [
+          "Filtration/degassing configuration (project-based)",
+          "Pump/valve layout",
+          "Control panel and instrumentation",
+          "Transport frame and service covers"
+        ]
+      },
+      "vacuum-drying-oven": {
+        "technicalSummary": [
+          "Insulated chamber for drying under vacuum",
+          "Sealing and vacuum stability focused design",
+          "Project-based volume and internal layout (racks/handling)",
+          "Robust construction for industrial operation"
+        ],
+        "qualityTests": [
+          "Vacuum hold and leak-tightness checks",
+          "Internal pressure/vacuum resistance checks",
+          "Weld seam inspection workflows"
+        ],
+        "options": [
+          "Chamber size and capacity",
+          "Heating system and sensor set",
+          "Door/sealing system",
+          "Controls and safety equipment"
+        ]
+      },
+      "vacuum-oil-filling-room": {
+        "technicalSummary": [
+          "Enclosed system space for vacuum oil filling process",
+          "Project-based connection and operation points",
+          "Sealing-focused enclosure and cover design",
+          "Process-appropriate safety approach"
+        ],
+        "qualityTests": [
+          "Vacuum hold and leak-tightness checks",
+          "Weld seam inspection workflows",
+          "Internal pressure/vacuum resistance checks (as applicable)"
+        ],
+        "options": [
+          "Room dimensions and internal layout",
+          "Line connections and manifold layout",
+          "Instrumentation and control panel",
+          "Operational safety equipment"
+        ]
+      },
+      "coil-winding-machine": {
+        "technicalSummary": [
+          "Robust frame for LV/HV coil winding applications",
+          "Alignment and mechanical repeatability focused structure",
+          "Operational safety and ergonomics approach",
+          "Project-based accessory and mandrel compatibility"
+        ],
+        "qualityTests": [
+          "Mechanical alignment and functional checks",
+          "Load verification (as applicable)",
+          "Weld seam inspection workflows"
+        ],
+        "options": [
+          "Mandrel sizes and accessory set",
+          "Speed/tension control components (project-based)",
+          "Guards and safety equipment",
+          "Installation/handling options"
+        ]
+      }
+    },
+    "detail": {
+      "technicalSummary": "Technical Summary",
+      "qualityTests": "Quality & Testing",
+      "options": "Options",
+      "documents": "Technical Documents",
+      "fastQuote": "Quick Quote",
+      "fastQuoteText": "Fast quotation via WhatsApp, email or phone.",
+      "docsPlaceholder": "PDF technical documents will be added here later."
+    }
+  },
+  "about": {
+    "title": "About",
+    "text": "Finmax Trafo & Metal İth. Tic. Ltd. Şti., quarter-century experience… 9,500 m² modern manufacturing facilities…",
+    "servicesTitle": "Service Areas",
+    "services": {
+      "tanks": "Transformer tanks and corrugated wall solutions",
+      "metal": "Metal fabrication and welded constructions",
+      "accessories": "Accessories, flanges and auxiliary parts",
+      "equipment": "Process equipment (vacuum, oil purification, etc.)"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contact us for quotation and project planning.",
+    "form": {
+      "name": "Full Name",
+      "company": "Company",
+      "country": "Country",
+      "productType": "Product Type",
+      "message": "Message",
+      "send": "Send"
+    }
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "social": "Social",
+    "rights": "All rights reserved."
+  }
+}

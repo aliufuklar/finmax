@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "siteName": "Finmax Trafo",
+    "defaultTitle": "Transformer Tank Manufacturing Partner",
+    "defaultDescription": "Hevalê we yê Manufacturer-to-Manufacturer ji bo tankê transformer, corrugated wall û aksesûaran."
+  },
+  "nav": {
+    "production": "Ekosîstema Hilberînê",
+    "capacity": "Kapasîte",
+    "products": "Berhem",
+    "quality": "Kalîte & Test",
+    "export": "Export & Lojîstîk",
+    "about": "Derbarê Me",
+    "contact": "Têkilî",
+    "ctaContact": "Têkilî"
+  },
+  "common": {
+    "getQuote": "Pêşniyara Bihayê Bistîne",
+    "viewProducts": "Berheman Bibîne",
+    "whatsapp": "WhatsApp",
+    "email": "E-name",
+    "phone": "Telefon",
+    "address": "Navnîşan",
+    "documents": "Belgeyên Teknîk",
+    "comingSoon": "Nêzîkê"
+  },
+  "home": {
+    "hero": {
+      "badge1": "Ji Hilberînerê bo Hilberînerê",
+      "badge2": "Ji bo îhracatê amade",
+      "title": "Hevalê Hilberîna Qazana Transformatorê.",
+      "subtitle": "Hilberîna M2M: qazanan transformatorê, dîwarên pelpelokî (corrugated) û aksesûar.",
+      "ctaPrimary": "Pêşniyara Nirxê",
+      "ctaSecondary": "Berhemên Bibîne"
+    },
+    "trust": {
+      "title": "Baweriya M2M",
+      "cards": {
+        "volume": {
+          "title": "Rêveberiya Hacim & Dem",
+          "text": "Plankirin li gorî projeyê, disiplinê demê û amadebûna şandinê."
+        },
+        "repeatability": {
+          "title": "Teknolojî & Dubarebûn",
+          "text": "Pêvajoyên standard ji bo kalîteya bê guhertin û şopandinê."
+        },
+        "export": {
+          "title": "Paketkirina Export-Ready",
+          "text": "Paketkirin, nîşankirin û belgekirina li gorî export."
+        }
+      }
+    },
+    "production": {
+      "title": "Ekosîstema Hilberînê",
+      "cards": {
+        "wavewall": {
+          "kicker": "Xeta hilberîna corrugated wall",
+          "benefit": "Dubarebûna bilind bi kontrola toleransên formê."
+        },
+        "welding": {
+          "kicker": "Welding / robotîk",
+          "benefit": "Disiplinê pêvajoyê ji bo seam a domdar û kalîteya rûyê."
+        },
+        "vacuum": {
+          "kicker": "Vakûm drying / oil room",
+          "benefit": "Amadekarî berî montajê û şertên prosesa guncav."
+        },
+        "shipment": {
+          "kicker": "Tankên amade ji bo şandinê",
+          "benefit": "Paketkirina export ku rîska veguhestinê kêm dike."
+        }
+      }
+    },
+    "capacity": {
+      "title": "Kapasîteya Mehanê (Tipîk)",
+      "items": {
+        "tank": "Tankê transformer: 20–60 adet/meh (li gorî mezinahiya projeyê)",
+        "wavewall": "Corrugated wall: 200–600 panel/meh",
+        "accessories": "Aksesûar & flange set: 100–300 set/meh"
+      },
+      "note": "Hejmara li gorî cûreya projeyê diguhezî; plankirina net di qada pêşniyarê de tê parvekirin."
+    },
+    "quality": {
+      "title": "Kalîte & Test",
+      "items": {
+        "leak": "Testên sızdırmazlık (leak-tightness)",
+        "pt": "Liquid penetrant",
+        "pressure": "Kontrolên berxwedana pressure/vakûm",
+        "weld": "Pêvajoyên kontrola weld seam"
+      }
+    },
+    "export": {
+      "title": "Avantaja Export & Lojîstîk",
+      "items": {
+        "location": "Şanlıurfa → nêzîkbûna Rojhilata Navîn, şandina zû",
+        "packaging": "Paketkirina export-ready"
+      }
+    },
+    "ctaBand": {
+      "title": "Projeya xwe biaxivin. Bersiv di 24 saetan de.",
+      "subtitle": "Bi WhatsApp, e-name an jî telefon bi lez têkilî bike."
+    }
+  },
+  "products": {
+    "index": {
+      "title": "Berhem",
+      "subtitle": "Kataloga B2B ya nûjen: teknîk, li ser hilberînê, amade ji bo pêşniyar."
+    },
+    "items": {
+      "transformer-tank": {
+        "name": "Transformer Tank",
+        "tagline": "Corrugated an flat wall; li gorî projeyê tê taybetkirin."
+      },
+      "wavewall": {
+        "name": "Corrugated Wall",
+        "tagline": "Hilberîna panelê bi fokus li ser kontrola form û kalîteya welding."
+      },
+      "accessories": {
+        "name": "Transformer Accessories",
+        "tagline": "Flange û parçeyên alîkar ji bo hilberînê û pêvajoyê."
+      },
+      "oil-purification": {
+        "name": "Oil Purification Unit",
+        "tagline": "Ekipmanên endûstriyel ji bo maintenance/proses bi yaklaşîma M2M."
+      },
+      "vacuum-drying-oven": {
+        "name": "Vacuum Drying Oven",
+        "tagline": "Sîstemên endûstriyel ji bo drying di bin vakûmê de."
+      },
+      "vacuum-oil-filling-room": {
+        "name": "Vacuum Oil Filling Room",
+        "tagline": "Çareseriyên sîstemê ji bo şertên vakûm/yağ doldurma."
+      },
+      "coil-winding-machine": {
+        "name": "LV/HV Coil Winding Machine",
+        "tagline": "Ekipmanên hilberînê bi berxwedana mekanîk û guncavbûna prosesê."
+      }
+    },
+    "data": {
+      "transformer-tank": {
+        "technicalSummary": [
+          "Hilberîna tankê transformer bi corrugated an flat wall",
+          "Mezinahî û layout a bağlantiyê li gorî projeyê",
+          "Prosesek welding ya ser sızdırmazlık û surface prep",
+          "Vebijarkên boya/kaplama ji bo teslimî ya amade",
+          "Yaklaşîma export-ready packaging"
+        ],
+        "qualityTests": [
+          "Testên sızdırmazlık (leak-tightness)",
+          "Liquid penetrant",
+          "Kontrolên berxwedana pressure/vakûm",
+          "Pêvajoyên kontrola weld seam"
+        ],
+        "options": [
+          "Sîstema boya (primer/top coat)",
+          "Gasket û fastener",
+          "Hilbijartina materyalê (plates/accessories)",
+          "Flange û konfigürasyonên bağlantiyê",
+          "Paketkirin û nîşankirin ji bo export"
+        ]
+      },
+      "wavewall": {
+        "technicalSummary": [
+          "Forming, kontrola ölçî û geometry ya panelê",
+          "Panel joining bi welding û kontrola continuity",
+          "Thickness û tolerans li gorî cûreya projeyê",
+          "Têketina traceable manufacturing li ser batch"
+        ],
+        "qualityTests": [
+          "Pêvajoyên kontrola weld seam",
+          "Liquid penetrant",
+          "Visual inspection û dimensional verification"
+        ],
+        "options": [
+          "Mezinahî û corrugation geometry",
+          "Thickness a materyalê",
+          "Boya/korozîyon protection",
+          "Forma paketkirinê"
+        ]
+      },
+      "accessories": {
+        "technicalSummary": [
+          "Flange, bracket û parçeyên metal ên alîkar",
+          "Hilberîn li gorî drawing û revîzyonên projeyê",
+          "Surface prep û vebijarkên kaplama",
+          "Paketkirina set-bazî ji bo şandina B2B"
+        ],
+        "qualityTests": [
+          "Kontrola ölçî û surface",
+          "Pêvajoyên kontrola weld seam",
+          "Liquid penetrant (heke pêwîst be)"
+        ],
+        "options": [
+          "Materyal û thickness",
+          "Kaplama/boya",
+          "Cûreya gasket û naveroka setê",
+          "Labeling û paketkirina taybet"
+        ]
+      },
+      "oil-purification": {
+        "technicalSummary": [
+          "Chassis û enclosure fabrication ji bo Oil Purification",
+          "Layout a modular ji bo servis û maintenance",
+          "Connection points û piping plan li gorî projeyê",
+          "Konstrüksiyon a berxwedar ji bo endûstrî"
+        ],
+        "qualityTests": [
+          "Kontrolên sızdırmazlık",
+          "Pêvajoyên kontrola weld seam",
+          "Kontrolên pressure/vakûm (li gorî aplikasyonê)"
+        ],
+        "options": [
+          "Filtration/degassing configuration (proje bazî)",
+          "Pump/valve layout",
+          "Control panel û instrumentation",
+          "Transport frame û service covers"
+        ]
+      },
+      "vacuum-drying-oven": {
+        "technicalSummary": [
+          "Chamber a izolasyonî ji bo vacuum drying",
+          "Design a ser sealing û vacuum stability",
+          "Hacim û layout a hundirîn (racks/handling) li gorî projeyê",
+          "Konstrüksiyon a berxwedar ji bo endûstrî"
+        ],
+        "qualityTests": [
+          "Vacuum hold û kontrolên sızdırmazlık",
+          "Kontrolên berxwedana pressure/vakûm",
+          "Pêvajoyên kontrola weld seam"
+        ],
+        "options": [
+          "Mezinahî û kapasîteya chamber",
+          "Heating system û sensor set",
+          "Door/sealing system",
+          "Controls û safety equipment"
+        ]
+      },
+      "vacuum-oil-filling-room": {
+        "technicalSummary": [
+          "Cihê sîstema girtî ji bo vacuum oil filling",
+          "Nokteyên operasyon û bağlantiyê li gorî projeyê",
+          "Enclosure/cover design a ser sealing",
+          "Yaklaşîma safety ya guncav bi prosesê"
+        ],
+        "qualityTests": [
+          "Vacuum hold û kontrolên sızdırmazlık",
+          "Pêvajoyên kontrola weld seam",
+          "Kontrolên pressure/vakûm (li gorî aplikasyonê)"
+        ],
+        "options": [
+          "Mezinahî û layout a hundirîn",
+          "Line connections û manifold layout",
+          "Instrumentation û control panel",
+          "Ekipmanên safety ya operasyonê"
+        ]
+      },
+      "coil-winding-machine": {
+        "technicalSummary": [
+          "Frame a berxwedar ji bo LV/HV coil winding",
+          "Struktura ser hizalama û mechanical repeatability",
+          "Safety û ergonomics ji bo operasyonê",
+          "Compatibility ya mandrel û accessories li gorî projeyê"
+        ],
+        "qualityTests": [
+          "Kontrolên mechanical alignment û function",
+          "Load verification (li gorî aplikasyonê)",
+          "Pêvajoyên kontrola weld seam"
+        ],
+        "options": [
+          "Mandrel sizes û accessory set",
+          "Speed/tension control components (proje bazî)",
+          "Guards û safety equipment",
+          "Opsiyonên kurulum/handling"
+        ]
+      }
+    },
+    "detail": {
+      "technicalSummary": "Kurteya Teknîk",
+      "qualityTests": "Kalîte & Test",
+      "options": "Vebijark",
+      "documents": "Belgeyên Teknîk",
+      "fastQuote": "Pêşniyara Zû",
+      "fastQuoteText": "Bi WhatsApp, e-name an jî telefon bi lez pêşniyar bistîne.",
+      "docsPlaceholder": "PDF-yên teknîk dê paşê li vir werin zêdekirin."
+    }
+  },
+  "about": {
+    "title": "Derbarê Me",
+    "text": "Finmax Trafo & Metal İth. Tic. Ltd. Şti., bi tecrubeya çaryek asir… 9.500 m² tesîsên hilberîna nûjen…",
+    "servicesTitle": "Qadên Karûbarê",
+    "services": {
+      "tanks": "Tankên transformer û corrugated wall solutions",
+      "metal": "Metal fabrication û welded constructions",
+      "accessories": "Aksesûar, flange û parçeyên alîkar",
+      "equipment": "Proses equipment (vacuum, oil purification, vb.)"
+    }
+  },
+  "contact": {
+    "title": "Têkilî",
+    "subtitle": "Ji bo pêşniyar û plankirina projeyê bi me re têkilî bike.",
+    "form": {
+      "name": "Nav û Paşnav",
+      "company": "Şîrket",
+      "country": "Welat",
+      "productType": "Cûreya Berhemê",
+      "message": "Peyam",
+      "send": "Bişîne"
+    }
+  },
+  "footer": {
+    "quickLinks": "Girêdanên Zû",
+    "contact": "Têkilî",
+    "social": "Sosyal",
+    "rights": "Hemû maf parastî ne."
+  }
+}
