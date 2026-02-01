@@ -17,11 +17,16 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: {
-    default: "Finmax Trafo | M2M Manufacturing Partner",
-    template: "%s | Finmax Trafo",
+    default: "Finmax Trafo & Metal | Transformer Tank Manufacturing Partner",
+    template: "%s | Finmax Trafo & Metal",
   },
   description:
-    "Manufacturer-to-Manufacturer üretim ortağınız: trafo kazanı, dalga duvar ve endüstriyel ekipmanlar.",
+    "Manufacturer-to-Manufacturer production partner for transformer tanks, corrugated walls and heavy metal fabrication.",
+  icons: {
+    icon: [{ url: "/media/favicon.svg", type: "image/svg+xml" }],
+    apple: [{ url: "/media/favicon.svg", type: "image/svg+xml" }],
+    shortcut: [{ url: "/media/favicon.svg", type: "image/svg+xml" }],
+  },
 };
 
 export default async function RootLayout({

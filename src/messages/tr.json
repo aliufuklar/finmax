@@ -22,7 +22,39 @@
     "phone": "Telefon",
     "address": "Adres",
     "documents": "Teknik Dokümanlar",
-    "comingSoon": "Yakında"
+    "comingSoon": "Yakında",
+    "language": "Dil"
+  },
+  "productsMenu": {
+    "tanks": {
+      "title": "Trafo Kazanları",
+      "items": {
+        "wave": "Dalga duvarlı trafo kazanı",
+        "flat": "Düz duvarlı trafo kazanı"
+      }
+    },
+    "waveWall": {
+      "title": "Dalga Duvar",
+      "items": {
+        "production": "Dalga duvar üretimi / corrugation"
+      }
+    },
+    "accessories": {
+      "title": "Trafo Aksesuarları",
+      "items": {
+        "general": "Bushing / kapak / flanş / conta (genel)"
+      }
+    },
+    "process": {
+      "title": "Proses & Ekipman Çözümleri",
+      "items": {
+        "coil": "AG/YG sargı makineleri",
+        "vacuumDrying": "Vakumlu kurutma fırınları",
+        "vacuumOilFilling": "Vakumlu yağ doldurma odaları",
+        "oilPurification": "Yağ tasfiye makineleri"
+      }
+    },
+    "viewAll": "Tüm Ürünleri Gör"
   },
   "home": {
     "hero": {

@@ -1,12 +1,14 @@
+import { headers } from "next/headers";
 import { setRequestLocale } from "next-intl/server";
+import { routing, type AppLocale } from "@/i18n/routing";
 
-export default async function NotFoundPage({
-  params,
-}: {
-  params: Promise<{ locale: string }>;
-}) {
-  const { locale } = await params;
-  setRequestLocale(locale);
+export default async function NotFoundPage() {
+  const headerList = await headers();
+  const headerLocale = headerList.get("x-locale");
+  const resolvedLocale: AppLocale = routing.locales.includes(headerLocale as AppLocale)
+    ? (headerLocale as AppLocale)
+    : routing.defaultLocale;
+  setRequestLocale(resolvedLocale);
 
   return (
     <div className="mx-auto max-w-5xl px-6 py-24">

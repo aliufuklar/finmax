@@ -39,7 +39,7 @@ export function buildPageMetadata(params: {
       type: "website",
       images: [
         {
-          url: "/media/hero-factory.jpg",
+          url: "/media/Enhanced Industrial Manufacturing - 4_3.jpg",
           width: 1200,
           height: 630,
           alt: site.name,
@@ -50,7 +50,7 @@ export function buildPageMetadata(params: {
       card: "summary_large_image",
       title: params.title,
       description: params.description,
-      images: ["/media/hero-factory.jpg"],
+      images: ["/media/Enhanced Industrial Manufacturing - 4_3.jpg"],
     },
   };
 }

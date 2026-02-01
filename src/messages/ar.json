@@ -22,7 +22,39 @@
     "phone": "الهاتف",
     "address": "العنوان",
     "documents": "المستندات الفنية",
-    "comingSoon": "قريبًا"
+    "comingSoon": "قريبًا",
+    "language": "اللغة"
+  },
+  "productsMenu": {
+    "tanks": {
+      "title": "خزانات المحولات",
+      "items": {
+        "wave": "خزان محول بجدار مموج",
+        "flat": "خزان محول بجدار مسطح"
+      }
+    },
+    "waveWall": {
+      "title": "الجدار المموج",
+      "items": {
+        "production": "تصنيع التمويج / Corrugation"
+      }
+    },
+    "accessories": {
+      "title": "ملحقات المحولات",
+      "items": {
+        "general": "بوشينغ / غطاء / فلنجة / جوان (عام)"
+      }
+    },
+    "process": {
+      "title": "حلول العمليات والمعدات",
+      "items": {
+        "coil": "ماكينات لف ملفات LV/HV",
+        "vacuumDrying": "أفران التجفيف بالفاكيوم",
+        "vacuumOilFilling": "غرف تعبئة الزيت بالفاكيوم",
+        "oilPurification": "ماكينات تنقية الزيت"
+      }
+    },
+    "viewAll": "عرض كل المنتجات"
   },
   "home": {
     "hero": {

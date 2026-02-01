@@ -1,6 +1,5 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import { useLocale, useTranslations } from "next-intl";
 import { site } from "@/lib/site";
 
@@ -8,11 +7,7 @@ export default function SiteFooter() {
   const t = useTranslations("footer");
   const nav = useTranslations("nav");
   const locale = useLocale();
-  const [year, setYear] = useState<number | null>(null);
-
-  useEffect(() => {
-    setYear(new Date().getFullYear());
-  }, []);
+  const year = new Date().getFullYear();
 
   return (
     <footer className="border-t border-white/10 bg-black/30">
@@ -71,7 +66,7 @@ export default function SiteFooter() {
 
         <div className="mt-10 flex flex-col gap-3 border-t border-white/10 pt-6 text-xs text-zinc-400 md:flex-row md:items-center md:justify-between">
           <div>
-            © {year ?? ""} {site.name}. {t("rights")}
+            © {year} {site.name}. {t("rights")}
           </div>
           <div className="flex items-center gap-3">
             <a

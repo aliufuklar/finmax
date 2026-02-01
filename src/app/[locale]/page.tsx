@@ -41,7 +41,7 @@ export default async function HomePage({
       <section className="relative overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/media/hero-factory.jpg"
+            src="/media/Enhanced Industrial Manufacturing - 4_3.jpg"
             alt=""
             fill
             priority
@@ -56,7 +56,7 @@ export default async function HomePage({
             loop
             playsInline
             preload="metadata"
-            poster="/media/hero-factory.jpg"
+            poster="/media/Enhanced Industrial Manufacturing - 4_3.jpg"
           >
             <source src="/media/hero-video.mp4" type="video/mp4" />
           </video>
@@ -238,25 +238,40 @@ export default async function HomePage({
         id="quality"
         className="mx-auto max-w-6xl px-6 py-16 md:py-20 scroll-mt-24"
       >
-        <div className="rounded-2xl border border-white/10 bg-white/5 p-6 md:p-10">
-          <h2 className="text-xl font-semibold tracking-tight md:text-2xl">
-            {t("quality.title")}
-          </h2>
-          <ul className="mt-6 grid gap-3 md:grid-cols-2">
-            {[
-              t("quality.items.leak"),
-              t("quality.items.pt"),
-              t("quality.items.pressure"),
-              t("quality.items.weld"),
-            ].map((item) => (
-              <li
-                key={item}
-                className="rounded-lg border border-white/10 bg-black/20 px-4 py-3 text-sm text-zinc-200"
-              >
-                {item}
-              </li>
-            ))}
-          </ul>
+        <div className="grid gap-6 rounded-2xl border border-white/10 bg-white/5 p-6 md:grid-cols-2 md:items-center md:p-10">
+          <div className="relative overflow-hidden rounded-xl border border-white/10 bg-black/20">
+            <div className="relative aspect-[16/11]">
+              <Image
+                src="/media/Premium Industrial Product - Spray Gun.jpg"
+                alt=""
+                fill
+                className="object-cover contrast-125"
+                sizes="(min-width: 768px) 50vw, 100vw"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-black/55 via-black/15 to-transparent" />
+            </div>
+          </div>
+
+          <div>
+            <h2 className="text-xl font-semibold tracking-tight md:text-2xl">
+              {t("quality.title")}
+            </h2>
+            <ul className="mt-6 grid gap-3 md:grid-cols-2">
+              {[
+                t("quality.items.leak"),
+                t("quality.items.pt"),
+                t("quality.items.pressure"),
+                t("quality.items.weld"),
+              ].map((item) => (
+                <li
+                  key={item}
+                  className="rounded-lg border border-white/10 bg-black/20 px-4 py-3 text-sm text-zinc-200"
+                >
+                  {item}
+                </li>
+              ))}
+            </ul>
+          </div>
         </div>
       </section>
 
@@ -268,7 +283,7 @@ export default async function HomePage({
           <div className="relative overflow-hidden rounded-xl border border-white/10 bg-white/5">
             <div className="relative aspect-[16/11]">
               <Image
-                src="/media/logistics-export.jpg"
+                src="/media/Premium Industrial Product - Grates Channels 1_1.jpg"
                 alt="İhracat ve lojistik"
                 fill
                 className="object-cover"

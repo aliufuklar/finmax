@@ -22,7 +22,39 @@
     "phone": "Telefon",
     "address": "Navnîşan",
     "documents": "Belgeyên Teknîk",
-    "comingSoon": "Nêzîkê"
+    "comingSoon": "Nêzîkê",
+    "language": "Ziman"
+  },
+  "productsMenu": {
+    "tanks": {
+      "title": "Tankên Transformatorê",
+      "items": {
+        "wave": "Tankê transformatorê bi dîwara pelpelokî",
+        "flat": "Tankê transformatorê bi dîwara rast"
+      }
+    },
+    "waveWall": {
+      "title": "Dîwara Pelpelokî",
+      "items": {
+        "production": "Hilberîna corrugation"
+      }
+    },
+    "accessories": {
+      "title": "Aksesûarên Transformatorê",
+      "items": {
+        "general": "Bushing / kapak / flange / conta (giştî)"
+      }
+    },
+    "process": {
+      "title": "Çareseriyên Proses & Ekipman",
+      "items": {
+        "coil": "Makînên sargiya AG/YG",
+        "vacuumDrying": "Firinên kurutina vakûmê",
+        "vacuumOilFilling": "Odeyên dagirtina rûnê bi vakûm",
+        "oilPurification": "Makînên tasfiyeya rûnê"
+      }
+    },
+    "viewAll": "Hemû Berheman Bibîne"
   },
   "home": {
     "hero": {

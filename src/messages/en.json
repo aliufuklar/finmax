@@ -22,7 +22,39 @@
     "phone": "Phone",
     "address": "Address",
     "documents": "Technical Documents",
-    "comingSoon": "Coming soon"
+    "comingSoon": "Coming soon",
+    "language": "Language"
+  },
+  "productsMenu": {
+    "tanks": {
+      "title": "Transformer Tanks",
+      "items": {
+        "wave": "Corrugated wall transformer tank",
+        "flat": "Flat wall transformer tank"
+      }
+    },
+    "waveWall": {
+      "title": "Corrugated Wall",
+      "items": {
+        "production": "Corrugation manufacturing"
+      }
+    },
+    "accessories": {
+      "title": "Transformer Accessories",
+      "items": {
+        "general": "Bushing / cover / flange / gasket (general)"
+      }
+    },
+    "process": {
+      "title": "Process & Equipment Solutions",
+      "items": {
+        "coil": "LV/HV coil winding machines",
+        "vacuumDrying": "Vacuum drying ovens",
+        "vacuumOilFilling": "Vacuum oil filling rooms",
+        "oilPurification": "Oil purification machines"
+      }
+    },
+    "viewAll": "View All Products"
   },
   "home": {
     "hero": {
